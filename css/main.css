@@ -142,8 +142,10 @@ body {
     font-size: 2.2vh;
     float:left;
 }
-.icons i {
+.icons a {
     border-bottom: 2px solid #c9c9c9;
+    text-decoration: none;
+    color: #333;
 }
 .madeBy {
     font-size: 2.2vh;
